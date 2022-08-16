@@ -20,6 +20,8 @@ In this repo there are components about
 Repo folder structure is like this
  - [**Embarcadero Code Central**](https://github.com/coderserdar/DelphiComponents/tree/main/Embarcadero%20Code%20Central/)
  - [**Other Components**](https://github.com/coderserdar/DelphiComponents/tree/main/Other/)
+ - [**Delphi Türkiye**](https://github.com/coderserdar/DelphiComponents/tree/main/Delphi%20Türkiye/)
+ - [**ICM**](https://github.com/coderserdar/DelphiComponents/tree/main/ICM/)
  - [**Torry's Delphi Pages**](https://github.com/coderserdar/DelphiComponents/tree/main/Torry's%20Delphi%20Pages)
    - [**Bars & Status Bars**](https://github.com/coderserdar/DelphiComponents/tree/main/Torry's%20Delphi%20Pages/Bars%20and%20Status%20Bars)
    - [**Buttons & Check Boxes**](https://github.com/coderserdar/DelphiComponents/tree/main/Torry's%20Delphi%20Pages/Buttons%20and%20CheckBoxes)
@@ -131,6 +133,16 @@ And I created a folder which is used to store compressed files of Delphi compone
    1. *JEDI Component Library (JCL) Components (Delphi XE)*
    2. *JEDI Visual Component Library (JVCL) Components (Delphi XE)*
    3. *Speex Network Component*
+
+</details>
+
+<details>
+  <summary>Delphi Turkiye Components</summary>
+
+   1. *MD5 Component*
+   2. *UGS Dialog (Splash Message Box)*
+   3. *Alternative TEdit Components*
+   4. *Some Component Sets*
 
 </details>
 

@@ -4,35 +4,35 @@
 
 In this repo, I want to combine some kind of *freeware* **Delphi VCL and Non-VCL Components** which are from *Embarcadero Code Central*, *Torry's Delphi Pages* etc. Generally the components are for **older** Delphi IDE versions like *Delphi 5*, *Delphi 6*, *Delphi 7* etc.
 
-But some components like [**JSON**](https://github.com/coderserdar/DelphiComponents/tree/main/Embarcadero%20Code%20Central/JSON%204.5), [**CSV**](https://github.com/coderserdar/DelphiComponents/tree/main/Embarcadero%20Code%20Central/CSV%205.6), [**Cindy Component Suite**](https://github.com/coderserdar/DelphiComponents/tree/main/Embarcadero%20Code%20Central/Cindy%20Components) can be used in most common Delphi IDEs like *Delphi 10 Rio* etc.
+But some components like [**JSON**](https://github.com/coderserdar/DelphiComponents/tree/main/Embarcadero%20Code%20Central/JSON%204.5), [**CSV**](https://github.com/coderserdar/DelphiComponents/tree/main/Embarcadero%20Code%20Central/CSV%205.6), [**Cindy Component Suite**](https://github.com/coderserdar/DelphiComponents/tree/main/Embarcadero%20Code%20Central/Cindy%20Components), [**Yunqa**](https://github.com/coderserdar/DelphiComponents/tree/main/Yunqa), [**Precision Software Components**](https://github.com/coderserdar/DelphiComponents/tree/main/Other/Precision%20Software) can be used in most common Delphi IDEs like *Delphi 10 Rio* etc.
 
 In this repo there are components about
- - **DB Aware**
- - **Communication**
- - **File Operations**
- - **Reporting**,
- - **Office Files**
- - **Compressing**
- - **Advanced Properties for Standard VCL Components**
- - **Security**
- - **PDF Files** etc.
+ - **DB Aware**, **Communication**, **File Operations**, **Reporting**, **Office Files**
+ - **Compressing**, **Advanced Properties for Standard VCL Components**, **Security**, **PDF Files** etc.
 
 Repo folder structure is like this
  - [**Embarcadero Code Central**](https://github.com/coderserdar/DelphiComponents/tree/main/Embarcadero%20Code%20Central/)
  - [**Other Components**](https://github.com/coderserdar/DelphiComponents/tree/main/Other/)
+   - [*Alpha Components*](https://github.com/coderserdar/DelphiComponents/tree/main/Other/Alpha%20Components)
+   - [*Bergsoft*](https://github.com/coderserdar/DelphiComponents/tree/main/Other/Bergsoft)
+   - [*Farsi Components*](https://github.com/coderserdar/DelphiComponents/tree/main/Other/Farsi%20Components)
+   - [*Precision Software*](https://github.com/coderserdar/DelphiComponents/tree/main/Other/Precision%20Software)
+   - [*RiverSoftAVG*](https://github.com/coderserdar/DelphiComponents/tree/main/Other/RiverSoftAVG)
+   - [*Mitov Components*](https://github.com/coderserdar/DelphiComponents/tree/main/Other/Mitov%20Components)
  - [**Delphi Türkiye**](https://github.com/coderserdar/DelphiComponents/tree/main/Delphi%20Türkiye/)
  - [**ICM**](https://github.com/coderserdar/DelphiComponents/tree/main/ICM/)
+ - [**Yunqa Components**](https://github.com/coderserdar/DelphiComponents/tree/main/Yunqa)
  - [**Torry's Delphi Pages**](https://github.com/coderserdar/DelphiComponents/tree/main/Torry's%20Delphi%20Pages)
-   - [**Bars & Status Bars**](https://github.com/coderserdar/DelphiComponents/tree/main/Torry's%20Delphi%20Pages/Bars%20and%20Status%20Bars)
-   - [**Buttons & Check Boxes**](https://github.com/coderserdar/DelphiComponents/tree/main/Torry's%20Delphi%20Pages/Buttons%20and%20CheckBoxes)
-   - [**Charts & Graphs**](https://github.com/coderserdar/DelphiComponents/tree/main/Torry's%20Delphi%20Pages/Charts%20And%20Graphs)
-   - [**Component Pack**](https://github.com/coderserdar/DelphiComponents/tree/main/Torry's%20Delphi%20Pages/Component%20Pack)
-   - [**DB Aware Components**](https://github.com/coderserdar/DelphiComponents/tree/main/Torry's%20Delphi%20Pages/DB%20Aware)
-     - [**DB Access**](https://github.com/coderserdar/DelphiComponents/tree/main/Torry's%20Delphi%20Pages/DB%20Aware/DB%20Access)
-     - [**Direct DB Access**](https://github.com/coderserdar/DelphiComponents/tree/main/Torry's%20Delphi%20Pages/DB%20Aware/Direct%20DB%20Access)
-     - [**Other**](https://github.com/coderserdar/DelphiComponents/tree/main/Torry's%20Delphi%20Pages/DB%20Aware/Other)
-     - [**Packs**](https://github.com/coderserdar/DelphiComponents/tree/main/Torry's%20Delphi%20Pages/DB%20Aware/Packs)
-     - [**Visual**](https://github.com/coderserdar/DelphiComponents/tree/main/Torry's%20Delphi%20Pages/DB%20Aware/Visual)
+   - [*Bars & Status Bars*](https://github.com/coderserdar/DelphiComponents/tree/main/Torry's%20Delphi%20Pages/Bars%20and%20Status%20Bars)
+   - [*Buttons & Check Boxes*](https://github.com/coderserdar/DelphiComponents/tree/main/Torry's%20Delphi%20Pages/Buttons%20and%20CheckBoxes)
+   - [*Charts & Graphs*](https://github.com/coderserdar/DelphiComponents/tree/main/Torry's%20Delphi%20Pages/Charts%20And%20Graphs)
+   - [*Component Pack*](https://github.com/coderserdar/DelphiComponents/tree/main/Torry's%20Delphi%20Pages/Component%20Pack)
+   - [*DB Aware Components*](https://github.com/coderserdar/DelphiComponents/tree/main/Torry's%20Delphi%20Pages/DB%20Aware)
+     - [*DB Access*](https://github.com/coderserdar/DelphiComponents/tree/main/Torry's%20Delphi%20Pages/DB%20Aware/DB%20Access)
+     - [*Direct DB Access*](https://github.com/coderserdar/DelphiComponents/tree/main/Torry's%20Delphi%20Pages/DB%20Aware/Direct%20DB%20Access)
+     - [*Other*](https://github.com/coderserdar/DelphiComponents/tree/main/Torry's%20Delphi%20Pages/DB%20Aware/Other)
+     - [*Packs*](https://github.com/coderserdar/DelphiComponents/tree/main/Torry's%20Delphi%20Pages/DB%20Aware/Packs)
+     - [*Visual*](https://github.com/coderserdar/DelphiComponents/tree/main/Torry's%20Delphi%20Pages/DB%20Aware/Visual)
    - [**Experts & IDE Plug-Ins**](https://github.com/coderserdar/DelphiComponents/tree/main/Torry's%20Delphi%20Pages/Experts%2C%20IDE)
    - [**Max Components**](https://github.com/coderserdar/DelphiComponents/tree/main/Torry's%20Delphi%20Pages/Max%20Components)
 
@@ -128,11 +128,31 @@ And I created a folder which is used to store compressed files of Delphi compone
 </details>
 
 <details>
+  <summary>Yunqa Setups</summary>
+
+   1. *DI Converters (Library of Unicode conversion functions for Delphi)*
+   2. *DI Creole (Markup parser, converter, and document creator from Creole syntax to, among others, HTML, RTF, LaTeX, as well as custom formats, for Delphi)*
+   3. *DI Google Reader (An advanced plugin for DIHtmlParser to illustrate how Google web search result pages can be parsed.)*
+   4. *DI HTML Label (Lightweight replacement for TLabel to display HTML-formatted text with clickable text links and dynamic contents.)*
+   5. *DI MIME (Base64 (MIME) encoding and decoding library)*
+   6. *DI SQLite 3 (A self-contained, embeddable, zero-configuration SQL database engine for Delphi)*
+   7. *DI UCL (A lossless compression library with extremely fast and small (200 bytes only!) ASM decompressor)*
+   8. *Yu Brotli (The new Brotli compression algorithm to Delphi. TStream, buffer & string wrappers. No-DLL implementation)*
+   9. *Yu XML Sec (Provides major XML Security standards for Delphi: XML Signature Syntax and Processing (XMLDSIG), XML Encryption Syntax and Processing (XMLENC), and Security Assertion Markup Language (SAML).)*
+
+</details>
+
+<details>
   <summary>Other Component Setups</summary>
 
    1. *JEDI Component Library (JCL) Components (Delphi XE)*
    2. *JEDI Visual Component Library (JVCL) Components (Delphi XE)*
    3. *Speex Network Component*
+   4. *BergSoft NextGrid 5 (for Delphi 6 & Delphi 7)*
+   5. *BergSoft NextGrid 6 (for Delphi 6 & Delphi 7)*
+   6. *EC Software Help Suite*
+   7. *RiverSoftAVG Flocking*
+   8. *RiverSoftAVG Charting Component Suite*
 
 </details>
 
